@@ -1,2 +1,2 @@
 # UniProject
-Projects completed in uni
+Projects completed in Uni.
