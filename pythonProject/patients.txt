@@ -1,0 +1,20 @@
+100000, VC1, Kek Won Yang, 12, AF, 0147895203, kekwonyang@gmail.com
+100001, VC1, Jack, 15, DM, 0154896321, Jack@hotmail.com
+100002, VC2, Micheal, 18, BV, 0213654789, Micheal@yahoo.com
+100003, VC1, James, 20, CZ, 0123654789, James123@gmail.com
+100004, VC1, Rolinta, 30, DM, 0258746931, rolinta76543@gmail.com
+100005, VC1, Ong Xiao Ming, 40, EC, 0154236987, ong333@yahoo.com
+100006, VC2, Lee Ah Beng, 50, AF, 0154789632, Lee1112@hotmail.com
+100007, VC1, Lai Jamie, 62, BV, 0152364789, 
+100008, VC2, Ali, 77, DM, 0162385479, 
+100009, VC1, Liu Mei, 83, AF, 0142875932, 
+100010, VC2, Siti, 91, DM, 0183697452, 
+100011, VC1, Lee Bing Chiao, 103, EC, 0154236987, 
+100012, VC2, Peter Kok, 111, DM, 0187456321, 
+100013, VC2, Kenny Chua, 12, DM, 0124875963, chua1123@gmail.com
+100014, VC2, Renny Lebrons, 118, AF, 0125874693, Lebron7654321@hotmail.com
+100015, VC2, Wendy Lew, 45, AF, 0124587963, wendy@hotmail.como
+100016, VC2, Luo BB, 24, AF, 0124569857, bbluo@yahoo.com
+100017, VC1, Micheal Jackson, 18, EC, 0123652525, Jackson223@gmail.com
+100018, VC2, Benjamin Ho, 25, CZ, 0125232215, benjamin@gmail.com
+100019, VC2, Low PP, 51, AF, 0123654789, 
